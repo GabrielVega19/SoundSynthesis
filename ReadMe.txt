@@ -1,0 +1,1 @@
+There are two objects needed to compile the final guitar simulation. One holds the raw data structure, and the other uses it to simulate the sound waves. To run the program compile with the makefile and then run it. 
